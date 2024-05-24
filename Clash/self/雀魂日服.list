@@ -1,0 +1,7 @@
+DOMAIN-SUFFIX,mahjongsoul.com
+PROCESS-NAME,Client-Win64-Shipping.exe
+PROCESS-NAME,SGuard64.exe
+PROCESS-NAME,SGuardUpdate64.exe
+PROCESS-NAME,SGuardSvc64.exe
+PROCESS-NAME,KRSDKExternal.exe
+PROCESS-NAME,KRWebView.exe
